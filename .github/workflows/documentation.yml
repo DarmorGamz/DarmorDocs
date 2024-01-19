@@ -1,5 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: documentation
 
 on: [push, pull_request, workflow_dispatch]
 
