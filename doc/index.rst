@@ -1,14 +1,8 @@
-.. Example documentation master file, created by
-   sphinx-quickstart on Sat Sep 23 20:35:12 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Example's documentation!
+Welcome to DarmorDocs!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :hidden
+   :maxdepth: -1
 
-   some-feature.md
-   another-feature.md
+   saveforlater.rst
