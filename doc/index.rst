@@ -2,7 +2,7 @@ Welcome to DarmorDocs!
 ===================================
 
 .. toctree::
-   :hidden
+   :hidden:
    :maxdepth: -1
 
-   saveforlater.rst
+   saveforlater
