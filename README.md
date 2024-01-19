@@ -1,12 +1,15 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<div align="center">
 
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,6 +30,28 @@
     <a href="https://github.com/DarmorGamz/DarmorDocs/issues">Request Feature</a>
   </p>
 </div>
+
+## Quickstart
+[Read The Docs](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+
+Assuming you have Python already, install Sphinx:
+
+
+    pip install sphinx
+
+
+Create a directory inside your project to hold your docs:
+
+
+    cd /path/to/project         
+    mkdir docs
+
+Run `sphinx-quickstart` in there:
+
+    cd docs
+    sphinx-quickstart
+
+
 
 <!-- CONTACT -->
 ## Contact
