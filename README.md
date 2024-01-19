@@ -45,7 +45,7 @@ Project Link: [https://github.com/DarmorGamz/DarmorDocs](https://github.com/Darm
 [issues-shield]: https://img.shields.io/github/issues/DarmorGamz/DarmorDocs.svg?style=for-the-badge
 [issues-url]: https://github.com/DarmorGamz/DarmorDocs/issues
 [license-shield]: https://img.shields.io/github/license/DarmorGamz/DarmorDocs.svg?style=for-the-badge
-[license-url]: https://github.com/DarmorGamz/DarmorDocs/blob/master/LICENSE.txt
+[license-url]: https://github.com/DarmorGamz/DarmorDocs/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/darren--morrison
 [product-screenshot]: images/screenshot.png
